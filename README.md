@@ -6,7 +6,7 @@
 
 **Monitoring Node.js scripts to keep them online 24 hours.**
 
-**Note:** Make sure to understand and comply with the usage policies and resource-related requirements to ensure the Node.js script monitoring follows platform rules and guidelines.
+**Notes :** Make sure to understand and comply with the usage policies and resource-related requirements to ensure the Node.js script monitoring follows platform rules and guidelines.
 
 
 ## [+] Find Me on :

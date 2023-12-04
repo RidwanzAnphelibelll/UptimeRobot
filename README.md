@@ -2,11 +2,9 @@
 ### [+] Created By : @Ridwanz
 
 
-## [+] Useful for :
+* ```## [+] Useful For :
 
-* ```## [+] Useful for:
-
-* Monitoring Node.js scripts to keep them online 24 hours. 
+Monitoring Node.js scripts to keep them online 24 hours.```
 
 **Note :** Make sure to understand and comply with the usage policies and resource-related requirements to ensure the Node.js script monitoring follows platform rules and guidelines.```
 
